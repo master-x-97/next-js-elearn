@@ -173,3 +173,5 @@ Opening in existing browser session.
 [15055:0730/071500.196505:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
 [15055:0730/071500.200047:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
 Opening in existing browser session.
+[14937:0730/074116.003586:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x2c4c019cf590' has no handler with id '3105'
+Opening in existing browser session.
