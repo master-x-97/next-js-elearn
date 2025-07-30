@@ -1,0 +1,175 @@
+[90m[main 2025-05-27T07:04:52.405Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-05-27T07:04:52.406Z][0m update#setState idle
+[111174:0527/100455.133110:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[111174:0527/100455.135185:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[111174:0527/100459.801296:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-05-27T07:05:22.407Z][0m update#setState checking for updates
+[90m[main 2025-05-27T07:05:22.577Z][0m update#setState ready
+[111125:0527/103043.533447:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x164c02798950' has no handler with id '4742'
+[111125:0527/103132.724516:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x164c02798950' has no handler with id '5255'
+[111174:0527/221553.793960:ERROR:connection.cc(63)] X connection error received.
+[90m[main 2025-05-28T01:05:11.370Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-05-28T01:05:11.371Z][0m update#setState idle
+[5959:0528/040514.134074:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[90m[main 2025-05-28T01:05:41.372Z][0m update#setState checking for updates
+[90m[main 2025-05-28T01:05:41.536Z][0m update#setState ready
+[5959:0528/040541.755266:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[5959:0528/040546.956591:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-05-28T06:48:15.728Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-05-28T06:48:15.729Z][0m update#setState idle
+[3165:0528/094818.606799:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[3165:0528/094840.880480:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[3165:0528/094840.889366:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-05-28T06:48:45.731Z][0m update#setState checking for updates
+[90m[main 2025-05-28T06:48:45.913Z][0m update#setState ready
+[3045:0528/114516.860733:ERROR:atom_cache.cc(229)] Add WM_CHANGE_STATE to kAtomsToCache
+[3045:0528/164129.051090:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x288402a203d0' has no handler with id '9342'
+[3045:0528/164135.012576:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x288402a1dcd0' has no handler with id '9636'
+[3045:0528/164139.452885:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x288402a1dcd0' has no handler with id '10001'
+[90m[main 2025-05-28T19:21:14.628Z][0m Extension host with pid 8919 exited with code: 0, signal: unknown.
+[91m[main 2025-05-28T19:21:14.836Z][0m [UtilityProcess id: 2, type: fileWatcher, pid: 8903]: crashed with code 15 and reason 'killed'
+Opening in existing browser session.
+[3045:0529/024740.466836:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x288401a1d1d0' has no handler with id '12707'
+[3045:0529/045646.546041:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x288401a1f590' has no handler with id '17359'
+[3045:0529/135346.308223:ERROR:atom_cache.cc(229)] Add chromium/from-privileged to kAtomsToCache
+[3045:0530/001936.955591:FATAL:electron_browser_main_parts.cc(502)] Failed to shutdown.
+[3165:0530/001936.969996:ERROR:connection.cc(63)] X connection error received.
+[3165:0530/001936.975661:ERROR:connection.cc(63)] X connection error received.
+[0530/001936.993728:ERROR:file_io_posix.cc(145)] open /proc/3045/auxv: Permission denied (13)
+[0530/001936.993899:ERROR:ptracer.cc(454)] ptrace: No such process (3)
+[0530/001936.993913:ERROR:ptracer.cc(480)] Unexpected registers size 0 != 216
+[0530/001936.993924:WARNING:process_reader_linux.cc(400)] Couldn't initialize main thread.
+X connection to :0 broken (explicit kill or server shutdown).
+[0530/001937.061912:ERROR:scoped_ptrace_attach.cc(37)] process not stopped
+[0530/001937.061992:ERROR:ptracer.cc(567)] ptrace: No such process (3)
+[0530/001937.062011:ERROR:process_snapshot_linux.cc(78)] Couldn't read exception info
+[0530/001937.062160:ERROR:scoped_ptrace_attach.cc(45)] ptrace: No such process (3)
+[90m[main 2025-05-29T23:06:32.203Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-05-29T23:06:32.204Z][0m update#setState idle
+[5305:0530/020634.992899:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[5305:0530/020634.998258:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[5305:0530/020648.917020:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-05-29T23:07:02.205Z][0m update#setState checking for updates
+[90m[main 2025-05-29T23:07:02.373Z][0m update#setState ready
+X connection to :0 broken (explicit kill or server shutdown).
+[90m[main 2025-05-29T23:24:49.607Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-05-29T23:24:49.608Z][0m update#setState idle
+[11297:0530/022452.164352:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[11297:0530/022510.067009:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[11297:0530/022510.073264:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-05-29T23:25:19.610Z][0m update#setState checking for updates
+[90m[main 2025-05-29T23:25:19.779Z][0m update#setState ready
+[11249:0530/032106.164657:ERROR:atom_cache.cc(229)] Add chromium/from-privileged to kAtomsToCache
+[11249:0530/034208.041300:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x42c018bddd0' has no handler with id '6006'
+[90m[main 2025-05-31T12:04:28.553Z][0m Extension host with pid 11397 exited with code: 0, signal: unknown.
+[91m[main 2025-05-31T12:04:28.588Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 11401]: crashed with code 15 and reason 'killed'
+[90m[main 2025-05-31T12:04:44.924Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-05-31T12:04:44.925Z][0m update#setState idle
+[128244:0531/150448.724916:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[128244:0531/150511.349463:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[128244:0531/150511.357316:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-05-31T12:05:14.927Z][0m update#setState checking for updates
+[90m[main 2025-05-31T12:05:15.099Z][0m update#setState ready
+[128196:0603/025746.206610:ERROR:atom_cache.cc(229)] Add WM_CHANGE_STATE to kAtomsToCache
+[128249:0603/033011.899842:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0603/132814.285305:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0604/173757.371496:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0606/134454.558685:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0606/134457.164004:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0606/134503.268374:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0607/032954.655755:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0607/032957.250380:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0607/045357.090097:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0607/045358.157715:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0607/045914.501653:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0607/203729.608293:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0608/220326.580419:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0609/041228.312027:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0609/163135.473719:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0609/200254.401392:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0611/003211.378316:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0611/003212.607398:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0612/042229.350913:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128249:0612/123420.411034:ERROR:ssl_client_socket_impl.cc(876)] handshake failed; returned -1, SSL error code 1, net_error -100
+[128196:0612/142253.274885:ERROR:browser_main_loop.cc(278)] Gdk: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+[128196:0612/143007.440234:ERROR:atom_cache.cc(229)] Add chromium/from-privileged to kAtomsToCache
+[128196:0613/113926.904688:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0xd0406af8190' has no handler with id '89411'
+[90m[main 2025-06-19T01:01:47.724Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-06-19T01:01:47.725Z][0m update#setState idle
+[788104:0619/040150.525832:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[90m[main 2025-06-19T01:02:17.726Z][0m update#setState checking for updates
+[90m[main 2025-06-19T01:02:17.975Z][0m update#setState ready
+[788104:0619/040230.160470:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[788104:0619/040230.168883:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-06-19T02:04:31.172Z][0m Extension host with pid 788203 exited with code: 0, signal: unknown.
+[91m[main 2025-06-19T02:04:31.273Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 788207]: crashed with code 15 and reason 'killed'
+[90m[main 2025-06-19T02:05:25.231Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-06-19T02:05:25.232Z][0m update#setState idle
+[790830:0619/050527.805245:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[790830:0619/050527.807092:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[790830:0619/050535.921230:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-06-19T02:05:55.233Z][0m update#setState checking for updates
+[90m[main 2025-06-19T02:05:55.401Z][0m update#setState ready
+[90m[main 2025-06-19T17:52:48.694Z][0m Extension host with pid 790956 exited with code: 0, signal: unknown.
+[91m[main 2025-06-19T17:52:48.865Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 790925]: crashed with code 15 and reason 'killed'
+[90m[main 2025-06-20T01:57:21.374Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-06-20T01:57:21.376Z][0m update#setState idle
+[843908:0620/045724.152500:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[843859:0620/045739.840101:ERROR:atom_cache.cc(229)] Add WM_CHANGE_STATE to kAtomsToCache
+[90m[main 2025-06-20T01:57:51.378Z][0m update#setState checking for updates
+[90m[main 2025-06-20T01:57:51.559Z][0m update#setState ready
+[843908:0620/045803.409328:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+Opening in existing browser session.
+[843908:0620/045946.420883:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[843859:0620/055612.373777:ERROR:atom_cache.cc(229)] Add chromium/from-privileged to kAtomsToCache
+Opening in existing browser session.
+[90m[main 2025-06-20T04:20:53.705Z][0m Extension host with pid 844004 exited with code: 0, signal: unknown.
+[91m[main 2025-06-20T04:20:53.853Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 844006]: crashed with code 15 and reason 'killed'
+[90m[main 2025-06-20T04:21:18.078Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-06-20T04:21:18.079Z][0m update#setState idle
+[864632:0620/072120.850206:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+Opening in existing browser session.
+[864632:0620/072146.297770:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[90m[main 2025-06-20T04:21:48.082Z][0m update#setState checking for updates
+[90m[main 2025-06-20T04:21:48.260Z][0m update#setState ready
+[864632:0620/072152.084455:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-06-21T18:07:32.653Z][0m Extension host with pid 864737 exited with code: 0, signal: unknown.
+[91m[main 2025-06-21T18:07:32.821Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 864736]: crashed with code 15 and reason 'killed'
+[90m[main 2025-07-05T16:45:09.212Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-07-05T16:45:09.212Z][0m update#setState idle
+[215165:0705/194512.084283:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[90m[main 2025-07-05T16:45:39.213Z][0m update#setState checking for updates
+[90m[main 2025-07-05T16:45:39.387Z][0m update#setState ready
+[215165:0705/194548.013332:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[215165:0705/194548.017263:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[215116:0706/002129.886291:ERROR:atom_cache.cc(229)] Add chromium/from-privileged to kAtomsToCache
+[215116:0706/002136.187998:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x314c02b58950' has no handler with id '6883'
+[215116:0706/003051.750501:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x314c02b58950' has no handler with id '7423'
+[215116:0706/070540.651181:ERROR:browser_main_loop.cc(278)] GLib-GObject: ../../../gobject/gsignal.c:2685: instance '0x314c02b59310' has no handler with id '10226'
+[215116:0709/042001.792051:FATAL:electron_browser_main_parts.cc(502)] Failed to shutdown.
+[215165:0709/042001.797151:ERROR:connection.cc(63)] X connection error received.
+[0709/042001.818813:ERROR:file_io_posix.cc(145)] open /proc/215116/auxv: Permission denied (13)
+[0709/042001.822957:ERROR:ptracer.cc(454)] ptrace: No such process (3)
+[0709/042001.822999:ERROR:ptracer.cc(480)] Unexpected registers size 0 != 216
+[0709/042001.823010:WARNING:process_reader_linux.cc(400)] Couldn't initialize main thread.
+[0709/042001.877943:ERROR:scoped_ptrace_attach.cc(37)] process not stopped
+[0709/042001.878003:ERROR:ptracer.cc(567)] ptrace: No such process (3)
+[0709/042001.878020:ERROR:process_snapshot_linux.cc(78)] Couldn't read exception info
+[0709/042001.878139:ERROR:scoped_ptrace_attach.cc(45)] ptrace: No such process (3)
+[90m[main 2025-07-23T03:33:20.547Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-07-23T03:33:20.548Z][0m update#setState idle
+[4552:0723/063323.416673:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[4552:0723/063343.311550:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[4552:0723/063350.491932:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[90m[main 2025-07-23T03:33:50.550Z][0m update#setState checking for updates
+[90m[main 2025-07-23T03:33:50.722Z][0m update#setState ready
+[90m[main 2025-07-23T08:52:21.125Z][0m Extension host with pid 4645 exited with code: 0, signal: unknown.
+[91m[main 2025-07-23T08:52:21.362Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 4649]: crashed with code 15 and reason 'killed'
+[90m[main 2025-07-30T04:14:17.798Z][0m updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/0.48.9/588af23060fd9dc0e1166d40f266a8a52da172b3d1fc7f10acbcc2bf664d5d0a/stable
+[90m[main 2025-07-30T04:14:17.799Z][0m update#setState idle
+[15055:0730/071420.408824:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[90m[main 2025-07-30T04:14:47.802Z][0m update#setState checking for updates
+[90m[main 2025-07-30T04:14:47.969Z][0m update#setState ready
+[15055:0730/071500.196505:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[15055:0730/071500.200047:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+Opening in existing browser session.
